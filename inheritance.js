@@ -1,1 +1,1 @@
-console.log('ini file inheritance');
+console.log('ini file inheritance ke 2');
